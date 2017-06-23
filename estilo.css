@@ -1,6 +1,12 @@
 ﻿body{
 	margin:0;
+	font-family: 'Open Sans', sans-serif;
 }
+
+h3{
+	font-weight: 300;
+}
+
 #barraHorizontal{
 	width:960px;
 	margin:auto;
